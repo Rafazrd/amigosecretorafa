@@ -1,7 +1,10 @@
 <h1>Projeto Amigo Secreto</h1>
 
 <h2>   Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura.
+   
+##   Link para acesso
+    https://amigosecretorafa.vercel.app/</p>
 
 ##    Tecnologias
 <div>
